@@ -36,7 +36,7 @@ public class Remote {
     }
     void menu()
     {
-        System.out.println("\nYour Menu is:\n 1.Setting\n 2.Brightness\n 3.Gaming\n 4.Channels");
+        System.out.println("\nYour Menu is:\n 1.Setting\n 2.Brightness\n 3.Gaming\n 4.Channels ");
     }
     void channel(){
         System.out.println("\nYour channel are:\n 1.Entertainment\n 2.News\n 3.Sports\n 4.Cooking\n 5.Bhojpuri");
