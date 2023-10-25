@@ -23,6 +23,10 @@ public class Linklist {
         list.remove("E");
         System.out.println(list);
 
+        list.set(2,"O");
+        System.out.println(list);
+
+
         LinkedList<Patient>  patient = new LinkedList<> ();
 
         patient.add(new Patient("Anuj" ,40,"O Rh+","TB"));
