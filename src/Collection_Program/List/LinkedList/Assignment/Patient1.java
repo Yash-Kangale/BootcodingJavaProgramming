@@ -12,7 +12,7 @@ public class Patient1 {
                 "name='" + name + '\'' +
                 ", age=" + age + '\'' +
                 ", bloodgr="+ bloodgr +'\'' +
-                ", disease="+'\'' +
+                ", disease="+ disease +
                 '}';
     }
 
