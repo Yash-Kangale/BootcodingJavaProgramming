@@ -51,7 +51,7 @@ public class Car {
         Car st=new  Car ();
         Car  st1=new  Car ("Mercedes-Maybach");
         Car  st2=new  Car ("Mercedes-Maybach",20);
-        Car  st3=new  Car ("Mercedes-Maybach",20,"Petrol and Diesel");
+        Car  t3s=new  Car ("Mercedes-Maybach",20,"Petrol and Diesel");
         Car  st4=new  Car ("Mercedes-Maybach",20,"Petrol and Diesel",7);
     }
 }
