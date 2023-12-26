@@ -31,7 +31,7 @@ public class Ex2 {
         //  Random- random();
         double random=Math.random()*100;
         double ra=Math.round(r);
-        System.out.println(random+);
+        System.out.println(random+"\n");
         System.out.println(ra);
 
         // Squareroot- sqrt();
