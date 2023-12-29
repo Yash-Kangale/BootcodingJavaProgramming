@@ -30,18 +30,18 @@ public class Ex3 {
         int sum=0;
         for(int value:array)
         {
-            sum+=(value)/5;
+            sum+=value;
         }
         return sum;
     }
 
     // Average:
     private static int avg(int[] array){
-        int sum=0;
+        int avg=0;
         for (int value:array){
-            sum=(value)/5;
+            avg=(value)/5;
         }
-        return sum;
+        return avg;
     }
 
     // Minimum:
