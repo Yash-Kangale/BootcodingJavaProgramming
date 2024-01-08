@@ -6,6 +6,8 @@ public class ArrayEvenNo {
         for (int j : a) {
             if (j % 2 == 0) {
                 System.out.println("Even Number is :" + j);
+            }else{
+                System.out.println("\nOdd Number is:"+j);
             }
         }
     }
